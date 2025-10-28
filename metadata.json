@@ -1,0 +1,5 @@
+{
+  "name": "Kafka Interactive Tuning Guide",
+  "description": "An interactive, step-by-step guide for performance tuning a Kafka cluster (v3.7.0). This guide provides commands, explanations, and best practices in a visually appealing and easy-to-follow format.",
+  "requestFramePermissions": []
+}
